@@ -60,6 +60,12 @@ Every Wednesday Fab Academy focuses on a different topic, giving a global view o
 - A 3D Scanner and a 3D Printer
 - Specific machine models (thoroughly tested and highly recommended but not required) are listed in the [Fab Lab Inventory](http://bit.ly/fabinventory)
 
+**What should I know before starting Fab Academy**
+
+You should be able to use a computer and have basic knowledge of some of the topics discussed in the course.
+You should also be able to understand, speak and write in English language.
+Many labs offer pre-classes to bring you up to speed to the course before it starts.
+
 **Where can I follow the course?**
 
 Fab Academy requires you to use a fully equipped Fab Lab during the whole course. Luckily the Fab Lab Network is present all over the world and you can find a Fab Academy Node nearby to follow the classes.
