@@ -10,11 +10,11 @@ It’s also a great way to gain exposure to a wide variety of digital fabricatio
 
 It’s not for the faint of heart but the rewards are great.
 
-**When did it start?**
+**How did it start?**
 
 Fab Academy was developed to teach hands-on skills in fab labs, which began as an outreach project from MIT’s Center for Bits and Atoms, and has grown into a global network of more than 500 labs.Fab Academy instruction is based on MIT’s popular rapid-prototyping course How To Make (almost) Anything, both taught by Prof. Neil Gershenfeld.
 
-**How it works?**
+**How does it work?**
 
 - Every week, prof. Neil Gershenfeld holds a global lecture on a different topic
 - Instructors in local labs provide hands-on activities on the topic, and offer their their practical knowledge to help students develop the week's assignment
