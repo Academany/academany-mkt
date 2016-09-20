@@ -143,6 +143,9 @@ Included in the costs:
 * Free access to the Annual FABX conference and diploma award cerimony where the student is graduating
 * Free software licenses for selected Autodesk and Solidworks software packages during the course
 
+**Scholarships**
+
+You can apply for a partial grant or a scholarship to your local lab, often provided in exchange of some work contribution to the lab.
 
 **Is there any accreditation?**
 
