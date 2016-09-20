@@ -16,6 +16,7 @@ Fab Academy was developed to teach hands-on skills in fab labs, which began as a
 
 **How does it work?**
 
+- The program takes place from mid January to late June 
 - Every week, prof. Neil Gershenfeld holds a global lecture on a different topic
 - Instructors in local labs provide hands-on activities on the topic, and offer their their practical knowledge to help students develop the week's assignment
 - Students work on the assignment using lab materials, equiment and machines, immediately applying all the concepts covered in the global and local classes. All the materials are included in the tuition fees.
@@ -70,61 +71,9 @@ Many labs offer pre-classes to bring you up to speed to the course before it sta
 
 Fab Academy requires you to use a fully equipped Fab Lab during the whole course. Luckily the Fab Lab Network is present all over the world and you can find a Fab Academy Node nearby to follow the classes.
 
-* Fab Lab Amsterdam (The Netherlands)
-* Fab Lab Barcelona (Barcelona, Spain)
-* Green Fab Lab (Barcelona, Spain)
-* Beach Lab Sitges (Sitges, Spain)
-* Fab Lab Leon (Leon, Spain)
-* Fab Lab Deusto (Bilbao, Spain)
-* Fab Lab Madrid CEU (Madrid, Spain)
-* Fab Lab UE (Madrid, Spain)
-* Fab Lab Manchester (Manchester, UK)
-* Fab Lab London (London, UK)
-* Fab Lab Vestmannaeyjar (Vestmannaeyjar, Iceland)
-* Fab Lab Reykjavik (Reykjavik, Iceland)
-* Fab Lab Ísafjörður (Ísafjarðarbær - Iceland)
-* Fab Lab Oulu (Oulu, Finland)
-* Aalto Fab Lab (Helsinki, Finland)
-* Fab Lab Toscana - Cascina (Cascina, Italy)
-* Fab Lab Toscana - Firenze (Firenze, Italy)
-* Fab Lab Toscana - Siena (Siena, Italy)
-* Fab Lab Opendot (Milan, Italy)
-* Fab Lab Frosinone (Frosinone, Italy)
-* Fab lab Rome SPQwoRk (Rome, Italy)
-* Fab Lab Torino (Torino, Italy)
-* Fab Lab Olbia (Olbia, Italy)
-* Woma//Volume (Paris, France)
-* Fab Lab Toulouse (Toulouse, France)
-* Fab Lab Ajaccio (Corsica, France)
-* Fab Lab Digiscope (Gif-sur-Yvette, France)
-* Fab Lab Santiago (Santiago de Chile, Chile)
-* Fab Lab Ciudad de Mexico (Ciudad de Mexico, Mexico)
-* Fab Lab Puebla (Puebla, Mexico)
-* Fab Lab ESAN (Lima Peru)
-* Fab Lab TECSUP (Lima Peru)
-* Fab Lab UNI (Lima Peru)
-* Fab Lab Cali (Cali, Colombia)
-* Fab Lab Yachay (Urcuqui, Ecuador)
-* Fab Lab Vigyan Ashram (Pune, India)
-* Fab Lab Kerala (India)
-* Fab Lab Wellington (Wellington, New Zealand)
-* Fab Lab AS220, (Providence US)
-* Fab Lab Incite Focus (Detroit, US)
-* Lorain County Community College Fab Lab
-* Fab Lab echolab (Montreal, Canada)
-* Fab Lab Shanghai (Shanghai, China)
-* Fab Lab SZOIL (Schenzhen, China)
-* FabLab@SP (Singapore)
-* Fab Lab Seoul (Seoul, South Korea)
-* Fab Lab Taipei (Taipei, Taiwan)
-* Fab Lab Tainan (Tainan, Taiwan)
-* Fab lab XH (Donggun, Guangdong, China)
-* Fab Lab Hamamatsu (Hamamatsu, Japan)
-* Fab Lab Kamakura (Kamakura, Japan)
-* FabLab Kitakagaya (Osaka, Japan)
-* Fab Lab Kyushu Univ. (Fukuoka, Japan)
-* Fab Lab Sendai (Sendai, Japan)
-* Fab lab Israel (Holon, Israel)
+You can check the list of Fab Academy 2017 Nodes here: [http://fabacademy.org/2017-nodes-supernodes/](http://fabacademy.org/2017-nodes-supernodes/)
+
+Currently the following countries host Fab Academy nodes: Netherlands, Spain, UK, Iceland, Finland, Italy, France, Chile, Mexico, Peru, Colombia, Ecuador, India, New Zeland, USA, Canada, China, South Korea, Japan, Taiwan, Israel.
 
 **How much time does it take?**
 
