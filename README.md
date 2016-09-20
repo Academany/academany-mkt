@@ -2,6 +2,9 @@
 
 # Academany marketing materials
 
+Below the marketing materials for promoting the course.
+
+More to follow soon.
 
 ## Academany
 
@@ -16,10 +19,6 @@
 ## Fab Academy 2017
 
 ![png](./fabacademy2017/logo/fabacademy_small.png)
-
-Below the marketing materials for promoting the course.
-
-More to follow soon
 
 - **Website & Social**
   - http://fabacademy.org | http://archive.fabacademy.org/
