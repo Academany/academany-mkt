@@ -25,7 +25,7 @@ More to follow soon.
   - twitter [@digifabacademy](https://twitter.com/digifabacademy)
 
 - **Logo**
-  - Fab Academy [png (low)](./fabacademy2017/logo/fabacademy.png), [png (hi)](./fabacademy2017/logo/fabacademy.png), [pdf](./fabacademy2017/logo/fabacademy.pdf)
+  - Fab Academy [png (low)](./fabacademy2017/logo/fabacademy_small.png), [png (hi)](./fabacademy2017/logo/fabacademy.png), [pdf](./fabacademy2017/logo/fabacademy.pdf)
   
 - **Brochure**
   - text [english](./fabacademy2017/brochure/index.md) 
