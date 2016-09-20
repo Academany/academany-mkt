@@ -1,6 +1,6 @@
 Brochure v0.1
 
-The Fab Academy teaches principles and applications of digital fabrication. 
+**The Fab Academy teaches principles and applications of digital fabrication**
 
 The role of Fab Academy is to initiate, mentor and technically train new students for participation and leadership in the global Fab Lab Network community. 
 
