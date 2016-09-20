@@ -14,7 +14,7 @@ More to follow soon.
   - http://www.academany.org (down, soon to be updated)
   
 - **Logo**
-  - Academany [png](./fabacademy2017/logo/academany.png), [pdf](./fabacademy2017/logo/academany.pdf)
+  - Academany [png (low)](./fabacademy2017/logo/academany_small.png), [png (hi)](./fabacademy2017/logo/academany.png), [pdf](./fabacademy2017/logo/academany.pdf)
 
 ## Fab Academy 2017
 
@@ -25,7 +25,7 @@ More to follow soon.
   - twitter [@digifabacademy](https://twitter.com/digifabacademy)
 
 - **Logo**
-  - Fab Academy [png](./fabacademy2017/logo/fabacademy.png), [pdf](./fabacademy2017/logo/fabacademy.pdf)
+  - Fab Academy [png (low)](./fabacademy2017/logo/fabacademy.png), [png (hi)](./fabacademy2017/logo/fabacademy.png), [pdf](./fabacademy2017/logo/fabacademy.pdf)
   
 - **Brochure**
   - text [english](./fabacademy2017/brochure/index.md) 
