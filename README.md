@@ -29,7 +29,7 @@ More to follow soon.
   
 - **Brochure**
   - text [english](./fabacademy2017/brochure/index.md) 
-  - (to be translated in) [french](./fabacademy2017/brochure/fr.md) | [spanish](./fabacademy2017/brochure/es.md) [italian](./fabacademy2017/brochure/it.md) | [german](./fabacademy2017/brochure/de.md) | [chinese](./fabacademy2017/brochure/cn.md)
+  - (to be translated in) [french](./fabacademy2017/brochure/fr.md) | [spanish](./fabacademy2017/brochure/es.md) | [italian](./fabacademy2017/brochure/it.md) | [german](./fabacademy2017/brochure/de.md) | [chinese](./fabacademy2017/brochure/cn.md)
 
 - **Flyer**
   - [png, high res](./fabacademy2017/flyer/flyer.png)
