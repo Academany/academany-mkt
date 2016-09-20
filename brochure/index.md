@@ -57,6 +57,7 @@ Every Wednesday Fab Academy focuses on a different topic, giving a global view o
 - A large (4'x8') numerically-controlled milling machine, for making furniture (and larger) sized parts.
 - A vinyl cutter, to produce printing masks, flexible circuits, and antennas.
 - A desktop sized precision (micron resolution) milling machine to make three-dimensional molds and surface-mount circuit boards.
+- A 3D Scanner and a 3D Printer
 - Specific machine models (thoroughly tested and highly recommended but not required) are listed in the [Fab Lab Inventory](http://bit.ly/fabinventory)
 
 **How much time does it take?**
