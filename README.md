@@ -1,12 +1,10 @@
 
 
-![png](./fabacademy2017/logo/academany.png)
-
-
-
+![png](./fabacademy2017/logo/academany_small.png)
 
 # Academany marketing materials
 
+## Fab Academy 2017
 
 ![png](./fabacademy2017/logo/fabacademy.png)
 
