@@ -8,3 +8,4 @@ More to follow soon
   - text [english](./brochure/index.md) 
 - **Flyer** 
   - [png, high res](./flyer/flyer.png)
+  - [pdf](./flyer/flyer.pdf)
