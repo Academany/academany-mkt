@@ -110,7 +110,7 @@ Many Fab Academy graduates improved their career opportunities after taking the 
 
 Take a look at the opportunities available at http://jobs.fabeconomy.com as a reference for jobs coming from the Fab Lab Network.
 
-** Contact information **
+**Contact information**
 
 To contact Fab Academy global coordination: coordination@fabacademy.org
 
