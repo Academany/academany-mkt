@@ -4,5 +4,6 @@ Below the marketing materials for promoting the course.
 
 More to follow soon
 
-- **Brochure** [text](./brochure/index.md) 
+- **Brochure** 
+  - text [english](./brochure/index.md) 
 - **Flyer** [png high res](./flyer/flyer.png)
