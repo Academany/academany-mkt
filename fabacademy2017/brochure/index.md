@@ -109,3 +109,19 @@ The Fab Diploma is earned by progress rather than the calendar, for successful c
 Many Fab Academy graduates improved their career opportunities after taking the program. There's high demand in the job market for talented digital fabrication experts and fab lab managers, but the knowledge offered by the course can be applied to any profession requiring rapid prototyping. Many graduates also started their own businesses offering locally produced design objects, toys, training services and consulting.
 
 Take a look at the opportunities available at http://jobs.fabeconomy.com as a reference for jobs coming from the Fab Lab Network.
+
+**Contact information**
+
+To contact Fab Academy global coordination: coordination@fabacademy.org
+
+If your questions are related with admissions to the Fab Academy: admissions@fabacademy.org
+
+To contact the Fab Labs: www.fablabs.io/labs
+
+To contact Fab Foundation: info@fabfoundation.org
+
+**Join Form**
+
+To join Fab Academy as a Node: http://fabacademy.org/machform/view.php?id=17338
+
+To join Fab Academy as a Student: http://fabacademy.org/machform/view.php?id=19042
