@@ -120,3 +120,8 @@ To contact the Fab Labs: www.fablabs.io/labs
 
 To contact Fab Foundation: info@fabfoundation.org
 
+**Join Form**
+
+To join Fab Academy as a Node: http://fabacademy.org/machform/view.php?id=17338
+
+To join Fab Academy as a Student: http://fabacademy.org/machform/view.php?id=19042
