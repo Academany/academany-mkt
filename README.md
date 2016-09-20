@@ -6,7 +6,7 @@
 
 ## Fab Academy 2017
 
-![png](./fabacademy2017/logo/fabacademy.png)
+![png](./fabacademy2017/logo/fabacademy_small.png)
 
 Below the marketing materials for promoting the course.
 
@@ -18,6 +18,7 @@ More to follow soon
 
 - **Brochure**
   - text [english](./fabacademy2017/brochure/index.md)
+
 - **Flyer**
   - [png, high res](./fabacademy2017/flyer/flyer.png)
   - [pdf](./fabacademy2017/flyer/flyer.pdf)
