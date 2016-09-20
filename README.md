@@ -6,4 +6,5 @@ More to follow soon
 
 - **Brochure** 
   - text [english](./brochure/index.md) 
-- **Flyer** [png high res](./flyer/flyer.png)
+- **Flyer** 
+  - [png, high res](./flyer/flyer.png)
