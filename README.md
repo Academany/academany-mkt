@@ -1,5 +1,10 @@
 # Fab Academy 2017 marketing materials
 
+
+![png](./logo/academany.png
+
+![png](./logo/fabacademy.png)
+
 Below the marketing materials for promoting the course.
 
 More to follow soon
