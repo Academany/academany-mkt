@@ -1,6 +1,6 @@
 Brochure v0.1
 
-The Fab Academy teaches principles and applications of digital fabrication. 
+**The Fab Academy teaches principles and applications of digital fabrication**
 
 The role of Fab Academy is to initiate, mentor and technically train new students for participation and leadership in the global Fab Lab Network community. 
 
@@ -10,11 +10,11 @@ It’s also a great way to gain exposure to a wide variety of digital fabricatio
 
 It’s not for the faint of heart but the rewards are great.
 
-**When did it start?**
+**How did it start?**
 
 Fab Academy was developed to teach hands-on skills in fab labs, which began as an outreach project from MIT’s Center for Bits and Atoms, and has grown into a global network of more than 500 labs.Fab Academy instruction is based on MIT’s popular rapid-prototyping course How To Make (almost) Anything, both taught by Prof. Neil Gershenfeld.
 
-**How it works?**
+**How does it work?**
 
 - Every week, prof. Neil Gershenfeld holds a global lecture on a different topic
 - Instructors in local labs provide hands-on activities on the topic, and offer their their practical knowledge to help students develop the week's assignment
@@ -59,6 +59,12 @@ Every Wednesday Fab Academy focuses on a different topic, giving a global view o
 - A desktop sized precision (micron resolution) milling machine to make three-dimensional molds and surface-mount circuit boards.
 - A 3D Scanner and a 3D Printer
 - Specific machine models (thoroughly tested and highly recommended but not required) are listed in the [Fab Lab Inventory](http://bit.ly/fabinventory)
+
+**What should I know before starting Fab Academy**
+
+You should be able to use a computer and have basic knowledge of some of the topics discussed in the course.
+You should also be able to understand, speak and write in English language.
+Many labs offer pre-classes to bring you up to speed to the course before it starts.
 
 **Where can I follow the course?**
 
@@ -137,6 +143,9 @@ Included in the costs:
 * Free access to the Annual FABX conference and diploma award cerimony where the student is graduating
 * Free software licenses for selected Autodesk and Solidworks software packages during the course
 
+**Scholarships**
+
+You can apply for a partial grant or a scholarship to your local lab, often provided in exchange of some work contribution to the lab.
 
 **Is there any accreditation?**
 
