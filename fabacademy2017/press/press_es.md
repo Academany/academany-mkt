@@ -1,4 +1,4 @@
-# Inscripciones abiertas para Fab Academy 2017!
+# ¡Inscripciones abiertas para Fab Academy 2017!
 
 (Fecha de la nota de prensa)
 
