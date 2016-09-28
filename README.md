@@ -39,6 +39,10 @@ More to follow soon.
   - Raster [png, high res](./fabacademy2017/flyer/flyer.png)
   - Vector [pdf](./fabacademy2017/flyer/flyer.pdf)
 
+- **Press release**
+  - [English](./fabacademy2017/press/press_en.md)
+  - [Spanish](./fabacademy2017/press/press_es.md)
+
 ## Bio Academy 2017
 
 - **Website**
