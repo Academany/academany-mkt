@@ -9,113 +9,99 @@ Es como formamos a nuestros instructores.
 Es también una gran manera de adquirir experiencia en una amplia gama de habilidades de fabricación digital, electrónica, moldes, composites, etc. en un corto periodo de tiempo (típicamente 19 semanas)
 
 No es para medrosos pero las recompensas valen la pena. 
+**Como empezó todo?**
+Fab Academy fue desarrollado para ensenar habilidades reales en laboratorios de fabricación digital. Empezó como un proyecto innovador del MIT’s Center for Bits and Atoms, y ha crecido hasta convertirse en una red global de más de 500 laboratorios. El curso del Fab Academy está basado en el popular curso de prototipado rápido del MIT _How To Make (almost) Anything_ también impartido por el profesor Neil Gershenfeld.
 
-**How did it start?**
+**Como funciona?**
 
-Fab Academy was developed to teach hands-on skills in fab labs, which began as an outreach project from MIT’s Center for Bits and Atoms, and has grown into a global network of more than 500 labs. Fab Academy instruction is based on MIT’s popular rapid-prototyping course _How To Make (almost) Anything_, both taught by Prof. Neil Gershenfeld.
+- El curso comienza a mediados de Enero hasta finales de Junio
+- Cada semana, el  profesor  Neil Gershenfeld da una clase magistral sobre diferentes materias
+-Cada Instructor en su lab local realizar actividades de acuerdo con la materia instruida en la clase magistral y ofrece sus conocimientos ayudando a los alumnos a desarrollar su asignación semanal
+- Los alumnos trabajan en tareas semanales usando los materiales del lab, su equipamiento y su maquinaria. Así pueden experimentar con los conceptos impartidos tanto en la clase global como local. Todos los materiales necesarios están incluidos en la cuota de inscripción
+-Cada alumno documenta su progreso en un blog personal alojado en el repositorio del Fab Academy(http://archive.fabacademy.org/)
+-En paralelo con las tareas semanales el alumno trabaja en un proyecto final que integre la mayor parte posible de conocimientos y técnicas aprendidos durante el curso. 
+- Los estudiantes que completen todos los módulos and el proyecto final pasan a una ronda global de evaluación, que les permite obtener el Diploma del Fab Academy 
 
-**How does it work?**
+**Que conocimientos  se imparten?**
+En pocas palabras: diseño, fabricación digital, electrónica, software y todo lo demás
 
-- The program takes place from mid January to late June
-- Every week, prof. Neil Gershenfeld holds a global lecture on a different topic
-- Instructors in local labs provide hands-on activities on the topic, and offer their their practical knowledge to help students develop the week's assignment
-- Students work on the assignment using lab materials, equipment and machines, immediately applying all the concepts covered in the global and local classes. All the materials are included in the tuition fees.
-- Students document their progress in a personal blog hosted in the [Fab Academy Archive](http://archive.fabacademy.org/)
-- In parallel to the weekly assignments, students work on a personal final project which will integrate mastery of all the skills learned during the course
-- Students who complete all modules and final project go through a global evaluation process that leads to the Fab Academy Diploma
+Cada miércoles el Fab Academy se centra en un tema en particular, otorgando al alumno una visión global de todo lo relacionado con la fabricación digital:
 
-**What will I learn?**
+- Principios y prácticas de la fabricación digital
+- Gestión de proyectos
+- Diseño por ordenador
+- Corte computarizado
+- Fabricación de circuitos electrónicos
+- Impresión y escaneo en 3D
+- Diseño de circuitos electrónicos
+- Fresado computarizado
+- Programación
+- Diseño de mecánica
+- Diseño de maquinaria
+- Sensores electrónicos
+- Moldes y Casting
+- Actuadores electrónicos
+- Materiales compuestos
+- Redes y comunicaciones
+- Interfaz y programación de aplicaciones
+- Aplicaciones e implicaciones de la fabricación digital
+- Invención, propiedad intelectual y ganancias 
+- Desarrollo de proyecto
+- Presentación del proyecto
 
-In few words: design, digital fabrication, electronics, software and everything in between.
+**Que maquinaria voy a aprender a usar?**
 
-Every Wednesday Fab Academy focuses on a different topic, giving a global view of everything related to digital fabrication:
+- Cortadoras láser para realizar estructuras 3D a partir de piezas 2D que ajusten a presión
+- Fresadoras Cnc de gran tamaño ( 2440mmx1220mm) para la fabricación de piezas de mobiliario ( o de mayor tamaño)
+- Cortadoras de vinilo para producir mascaras de impresión, circuitos electrónicos y antenas
+- Fresadoras Cnc de mesa ( resolución micrométrica) para la realización de moldes tridimensionales y fabricación de circuitos   electrónicos.
+- Escáner e impresoras 3D
+- Maquinaria especifica ( recomendada y probada pero no esencial) de esta lista [Fab Lab Inventory](http://bit.ly/fabinventory)
 
-- Principles and practices of digital fabrication
-- Project management
-- Computer aided design
-- Computer controlled cutting
-- Electronics production
-- 3D Scanning and printing
-- Electronics design
-- Computer controlled machining
-- Embedded programming
-- Mechanical design
-- Machine design
-- Input Devices
-- Molding and Casting
-- Output devices
-- Composites
-- Networking and communications
-- Interface and application programming
-- Applications and implications of digital fabrication
-- Invention, intellectual property and income
-- Project development
-- Project presentation
+**Requisitos previos a empezar el Fab Academy**
 
-**What machines will I learn to use?**
+Habilidad para utilizar un ordenador y conocimientos previos básicos sobre algunos de los temas impartidos
+Las clases magistrales Globales se imparten in Ingles, algunos laboratorios también imparten sus sesiones locales en este idioma, por lo que debe ser capaz de entender, hablar y escribir Ingles con fluidez.
+Algunos laboratorios ofrecen cursos pre-Academy para acelerar y mejorar el aprendizaje durante el Fab Academy. Debe ser confirmado con su laboratorio local.
 
-- A computer-controlled laser cutter, for press-fit assembly of 3D structures from 2D parts.
-- A large (4'x8') numerically-controlled milling machine, for making furniture (and larger) sized parts.
-- A vinyl cutter, to produce printing masks, flexible circuits, and antennas.
-- A desktop sized precision (micron resolution) milling machine to make three-dimensional molds and surface-mount circuit boards.
-- A 3D Scanner and a 3D Printer
-- Specific machine models (thoroughly tested and highly recommended but not required) are listed in the [Fab Lab Inventory](http://bit.ly/fabinventory)
+**Donde puedo seguir las clases?**
 
-**What should I know before starting Fab Academy**
+El Fab Academy requiere atender a las clases tanto globales como locales en un nodo del Fab Academy durante todo el programa. Un nodo Fab Academy es un laboratorio con todos los recursos y materiales necesarios para completar el programa. Afortunadamente la Red Fab Lab está presente a nivel mundial en múltiples países a lo largo y ancho del mundo. Puede encontrar su nodo Fab Academy más cercano en la lista de laboratorios. Los siguientes países tienen nodos del Fab Academy: Netherlands, Spain, UK, Iceland, Finland, Italy, France, Chile, Mexico, Peru, Colombia, Ecuador, India, New Zeeland, USA, Canada, China, South Korea, Japan, Taiwan and Israel, puede comprobar las lista completa de nodos del Fab Academy 2017 aquí: [http://fabacademy.org/2017-nodes-supernodes/](http://fabacademy.org/2017-nodes-supernodes/)
 
-You should be able to use a computer and have basic knowledge of some of the topics discussed in the course.
-Global sessions and some labs local sessions are in english. You should also be able to understand, speak and write fluent English.
-Some labs offer pre-academy classes to bring you up to speed to the course before it starts. Confirm with you local lab.
+**Cuanta dedicación se requiere?**
+Una implicación de 16+ horas semanales como mínimo. Puede ser mucho más si el alumno se encuentra altamente motivado o no posee los conocimientos previos de  algunas unidades temáticas en particular o simplemente quiere aprender profundamente todos los conocimientos que el programa ofrece.
 
-**Where can I follow the course?**
+**Costes**
 
-Fab Academy requires you to attend the lectures and local sessions in a Fab Academy node during the whole course, which is a fab lab with the required materials and resources to complete the program. Luckily the Fab Lab Network is present all over the world and you can find a Fab Academy Node nearby to follow the classes. The following countries host Fab Academy nodes: Netherlands, Spain, UK, Iceland, Finland, Italy, France, Chile, Mexico, Peru, Colombia, Ecuador, India, New Zeeland, USA, Canada, China, South Korea, Japan, Taiwan and Israel, but you can check the complete list of Fab Academy 2017 Nodes here: [http://fabacademy.org/2017-nodes-supernodes/](http://fabacademy.org/2017-nodes-supernodes/)
+El Fab Academy Diploma cuesta 5000 (USD/EUR). La elección de (USD o EUR) depende de cada laboratorio
 
-**How much time does it take?**
+Incluido en el precio:
+* Todos los materiales básicos del curso
+*Espacio personal en el Repositorio del Fab Academy con acceso de por vida y mantenimiento.
+* Acceso en directo al sistema de Video Conferencia del Fab Academy 
+*Acceso a todos los videos de las clases y revisiones de los alumnos 
+* 15 Horas semanales de acceso al laboratorio y tutorías personalizadas
+*Uso del equipamiento e instalaciones del laboratorio 
+*Acceso gratuito a la conferencia anual FAB  y la ceremonia de entrega de diplomas ( solo alumnos graduados) 
+* Licencias gratuitas para determinados software de Autodesk y Solidworks a lo largo del curso. 
+* Miembro vitalicio al grupo Fab Academy Alumni 
 
-The time commitment is about 16+ hours a week at minimum, but could be far greater if the student is highly motivated, does not possess the background for a particular unit (or units) or just wants to really throw themselves into the program.
+**BECAS**
+Puede aplicar a una beca parcial o total por parte de su laboratorio local. Usualmente se ofrecen a cambio de contribuir trabajando en el laboratorio.
 
-**Tuition fees**
+**Existe alguna acreditación?**
+El Diploma del Fab Academy se otorga por un Comité de Evaluación Global distribuido después de haber superado exitosamente el programa estudiado en los Principios y aplicaciones de la Fabricación Digital. Certificados de módulos individuales pueden ser otorgados a los alumnos que superen dichos módulos de forma independiente.
 
-Fab Academy Diploma costs 5000 (USD/EUR). The currency is determined by local lab.
+**El Fab Academy me ayuda a encontrar trabajo?**
+Muchos graduados del Fab Academy mejoran sus oportunidades laborales después de asistir al curso. Actualmente hay una alta demanda de mercado de expertos en fabricación digital y Fab lab managers, pero los conocimientos adquiridos  durante el programa pueden ser aplicados a cualquier profesión que requiera prototipado rápido. También muchos graduados empiezan sus propios negocios ofreciendo producción local de objetos de diseño, juguetes, clases o servicios de asesoramiento.
+Puede ver las ofertas de trabajo actuales en http://jobs.fabeconomy.com como referencia de futuras ofertas ofrecidas en la Red Global de Fab Labs.
 
-Included in the costs:
-* All the basic course materials
-* Personal space in Fab Academy Archive with lifetime access and maintenance
-* Live access to the Fab Academy Video Conferencing system (MCU) and faculty
-* Access to all recorded lectures and reviews
-* 15 hours a week of hands-on Fab Lab access and personal instruction
-* Use of the lab equipment and facilities
-* Free access to the Annual FAB conference and diploma award ceremony (graduated students only)
-* Free software licenses for selected Autodesk and Solidworks software packages during the course
-* Lifetime membership to the Fab Academy Alumni group
+**Información de contacto **
+Para contactar con la coordinación global del Fab Academy: coordination@fabacademy.org
+Si tiene preguntas relacionadas con las admisiones al Fab Academy: admissions@fabacademy.org
+Contactar con otros Fab Labs: www.fablabs.io/labs
+Contactar Fab Foundation: info@fabfoundation.org
 
-**Scholarships**
-
-You can apply for a partial grant or a scholarship to your local lab, often provided in exchange of some work contribution to the lab.
-
-**Is there any accreditation?**
-
-The Fab Academy Diploma will be issued by a distributed Global Evaluation Committee after satisfactorily completing the course of study in the Principles and Applications of Digital Fabrication. Individual certificates will also be issued for students successfully completing individual topics.
-
-**Will Fab Academy help me find a job?**
-
-Many Fab Academy graduates improved their career opportunities after taking the program. There's high demand in the job market for talented digital fabrication experts and fab lab managers, but the knowledge offered by the course can be applied to any profession requiring rapid prototyping. Many graduates also started their own businesses offering locally produced design objects, toys, training services and consulting.
-
-Take a look at the opportunities available at http://jobs.fabeconomy.com as a reference for jobs coming from the Fab Lab Network.
-
-**Contact information**
-
-To contact Fab Academy global coordination: coordination@fabacademy.org
-
-If your questions are related with admissions to the Fab Academy: admissions@fabacademy.org
-
-To contact the Fab Labs: www.fablabs.io/labs
-
-To contact Fab Foundation: info@fabfoundation.org
-
-**Join Form**
-
-To apply for Fab Academy as a Student: http://fabacademy.org/machform/view.php?id=19042
-
-To apply for Fab Academy as a Node (fab lab): http://fabacademy.org/machform/view.php?id=17338
+**Formularios de aplicación**
+Aplicar como estudiante: http://fabacademy.org/machform/view.php?id=19042
+Aplicar al Fab Academy como Nodo (Fab lab): http://fabacademy.org/machform/view.php?id=17338
