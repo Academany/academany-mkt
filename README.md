@@ -44,7 +44,7 @@ More to follow soon.
   - [Spanish](./fabacademy2017/press/press_es.md)
   - [Italian](./fabacademy2017/press/press_it.md)
   - [French](./fabacademy2017/press/press_fr.md)
-  - [German](./fabacademy2017/press/press_de.md) WIP by @matbgn
+  - [German](./fabacademy2017/press/press_de.md) 
 
 ## Bio Academy 2017
 
