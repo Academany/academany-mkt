@@ -32,8 +32,8 @@ More to follow soon.
   - Vector [pdf](./fabacademy2017/logo/fabacademy.pdf)
 
 - **Brochure**
-  - text [english](./fabacademy2017/brochure/index.md)
-  - (to be translated in) [french](./fabacademy2017/brochure/fr.md) | [spanish](./fabacademy2017/brochure/es.md) | [italian](./fabacademy2017/brochure/it.md) | [german](./fabacademy2017/brochure/de.md) | [chinese](./fabacademy2017/brochure/cn.md)
+  - text [english](./fabacademy2017/brochure/index.md) | [french](./fabacademy2017/brochure/fr.md)
+  - (to be translated in) [spanish](./fabacademy2017/brochure/es.md) | [italian](./fabacademy2017/brochure/it.md) | [german](./fabacademy2017/brochure/de.md) | [chinese](./fabacademy2017/brochure/cn.md)
 
 - **Flyer**
   - Raster [png, high res](./fabacademy2017/flyer/flyer.png)
