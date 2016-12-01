@@ -1,4 +1,4 @@
-# Nominierungen offen für die 2017 Fab Academy!
+# Bewerbungen offen für die 2017 Fab Academy!
 
 (Presse Datum)
 
