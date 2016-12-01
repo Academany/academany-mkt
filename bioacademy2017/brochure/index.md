@@ -37,19 +37,29 @@ Bio Academy teaches the principles and application of synthetic biology. The cou
 * Gene Drives & Synthetic Ecosystems
 * Invention, intellectual property and more
 
-**What machines will I learn to use?**
+**What machines and tools will I learn to use?**
 
+Bio Academy uses tools and equipment that are part of a bio lab, in many cases BS1 or BS2 (biosafety level).
+You will learn how to
+* safely perform lab work with chemicals and reagents
+* use pipettes and liquid handling systems
+* use microscopes
+* handle organisms and living materials
 
 **What should I know before starting Bio Academy**
 
+You should at least be comfortable using computers, and speak and understand the English language to a high level.
+The courses are available online from past years, and it helps to watch at least one lecture to see if you understand the subject and feel comfortable following what faculty is talking about. This course is not for the faint of heart, and it's certainly not easy!
 
 
 **Where can I follow the course?**
 
+There are several labs around the world participating in Bio Academy, and each one of them accepts a number of students. You will find the precise list on the website (bio.academany.org) and will be able to contact a lab close to you for more details.
 
 
 **How much time does it take?**
 
+The time commitment is about 16+ hours a week at minimum, but could be far greater if the student is highly motivated, does not possess the background for a particular unit (or units) or just wants to really throw themselves into the program.
 
 **Tuition fees**
 
