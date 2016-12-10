@@ -18,7 +18,7 @@ Fab Academy was developed to teach hands-on skills in fab labs, which began as a
 
 - The program takes place from mid January to late June
 - Every week, prof. Neil Gershenfeld holds a global lecture on a different topic
-- Instructors in local labs provide hands-on activities on the topic, and offer their their practical knowledge to help students develop the week's assignment
+- Instructors in local labs provide hands-on activities on the topic, and offer their practical knowledge to help students develop the week's assignment
 - Students work on the assignment using lab materials, equipment and machines, immediately applying all the concepts covered in the global and local classes. All the materials are included in the tuition fees.
 - Students document their progress in a personal blog hosted in the [Fab Academy Archive](http://archive.fabacademy.org/)
 - In parallel to the weekly assignments, students work on a personal final project which will integrate mastery of all the skills learned during the course
@@ -69,7 +69,7 @@ Some labs offer pre-academy classes to bring you up to speed to the course befor
 
 **Where can I follow the course?**
 
-Fab Academy requires you to attend the lectures and local sessions in a Fab Academy node during the whole course, which is a fab lab with the required materials and resources to complete the program. Luckily the Fab Lab Network is present all over the world and you can find a Fab Academy Node nearby to follow the classes. The following countries host Fab Academy nodes: Netherlands, Spain, UK, Iceland, Finland, Italy, France, Chile, Mexico, Peru, Colombia, Ecuador, India, New Zeeland, USA, Canada, China, South Korea, Japan, Taiwan and Israel, but you can check the complete list of Fab Academy 2017 Nodes here: [http://fabacademy.org/2017-nodes-supernodes/](http://fabacademy.org/2017-nodes-supernodes/)
+Fab Academy requires you to attend the lectures and local sessions in a Fab Academy node during the whole course, which is a fab lab with the required materials and resources to complete the program. Luckily the Fab Lab Network is present all over the world and you can find a Fab Academy Node nearby to follow the classes. The following countries host Fab Academy nodes: Netherlands, Spain, UK, Iceland, Finland, Italy, France, Chile, Mexico, Peru, Colombia, Ecuador, India, New Zeeland, USA, Canada, China, South Korea, Japan, Taiwan, Israel and Russia, but you can check the complete list of Fab Academy 2017 Nodes here: [http://fabacademy.org/2017-nodes-supernodes/](http://fabacademy.org/2017-nodes-supernodes/)
 
 **How much time does it take?**
 
