@@ -36,7 +36,7 @@ Amsterdam (Holland)
 
 “Emma Pareschi works from 1 September 2014 as hardware developer at Waag Society. In an earlier stage, Emma worked as an intern at Fablab Amsterdam and succesfully followed the Fab Academy.
 
-Emma is Italian by origin and now lives in Amsterdam. She has a M.Sc. in Physics, specialization in electronics and she worked as analog design engineer of integrated circuits for a semiconductor company based in Villach (Austria). Emma works within several projects at the hardware and software integration.  She is actually working on the SENSEKIT european project” 
+Emma is Italian by origin and now lives in Amsterdam. She has a M.Sc. in Physics, specialization in electronics and she worked as analog design engineer of integrated circuits for a semiconductor company based in Villach (Austria). Emma works within several projects at the hardware and software integration.  She is actually working on the SENSEKIT european project”
 
 #### GEOFFREY DESBOROUGH – FAB ACADEMY 2015
 Fab Lab Wellington (New Zealand)  
@@ -44,3 +44,11 @@ Fab Lab Wellington (New Zealand)
 “I am a 23 year old Kiwi from Kapiti ... I completed a Bachelor of Design with Honours majoring in photography with Massey last year. I have always been involved with action sports such as downhill mountain biking, skateboarding, motocross and BMX... I was really interested in building something that I could use myself and something I would have great drive in.“
 
 After the Fab Academy Geoffrey Desborough with his brother Jimmy founded Armadillo Gimbals, the Fab Academy Final Project has become his future.
+
+#### Suhas Labade, Fab academy 2015
+
+I’m born in farming family in a small village near Vigyan Ashram Fab lab. After completing engineering, I joined Fab Academy. It has helped me with expertise in core electronics, programming and designing. I have selected my Fab Academy project on precision agriculture. After graduation, I have continued to work on it. I have installed it with two farmers in Pabal village. I am now working on standardizing my design and developing more instruments with Fab Lab to meet challenges of water scarcity regions. Currently working as Fab Lab Manager at Vigyan Ashram.
+
+#### Supriya Kadam, Fabacademy 2016
+
+I was and studied small village Patan. I visited Vigyan Ashram during my engineering college days as part of study tour. I have a dream of starting my business but was very confused. Hence decided to join Fab Lab at Vigyan Ashram. During Fab Academy course, I was able to put my academic knowledge into practice and also learn advance techniques in the field. Peer learning from local as well as global friends helped me to acquire knowledge. My Fab Academy project of 'Rangoli Making machine' set me on the track of making plotters. Recently I got order for making similar plotter from small shopkeeper. This is my first commercial order. I also made stirrer which work on solar energy. Hope to make more such products and build my company.

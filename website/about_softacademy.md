@@ -14,3 +14,8 @@ The possibilities to conduct experimental research in a open laboratory gives th
 Through the program of the Academy we are developing and implementing a new approach on to how create, produce and distribute textile and fashion elements, by using distributed manufacturing infrastructures and knowledge networks.
 Along with experts from the field, the participants will investigate how the textile and fashion industry can benefit from new technologies, processes and business models.
 We are experimenting with the human body, culture and mindset by recycling, hacking and sensing it, creating feedback loops with project development, where materials, aesthetics, sustainability and customisation play equal and important roles. The academy offers a cross-disciplinary education and research platform, where production and culture through advanced technologies are making impact in the way we think and act towards the textile industry and all of its application fields. Working locally, while creating connected communities globally. We are not waiting for things to change, we are changing them from the ground up.
+
+
+### Faculty
+
+coming soon.
