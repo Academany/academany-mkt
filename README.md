@@ -11,8 +11,9 @@ More to follow soon.
 ![png](./fabacademy2017/logo/academany_small.png)
 
 - **Website & Social**
-  - Web http://www.academany.org (down, soon to be updated)
+  - Web http://www.academany.org 
   - Docs http://docs.academany.org
+  - FabCloud http://gitlab.fabcloud.org
 
 - **Logo**
   - Raster [png (low)](./fabacademy2017/logo/academany_small.png), [png (hi)](./fabacademy2017/logo/academany.png)
@@ -51,3 +52,14 @@ More to follow soon.
 - **Website**
   - Web http://bio.academany.org
   - Archive http://bio.academany.org/doc/  
+
+## Fabricademy 2017
+
+- **Website**
+
+  - Web http://textile-academy.org
+  - Archive http://wiki.textile-academy.org
+  
+- **Social**
+
+  - [Twitter](http://twitter.com/fabricademy), [Facebook](http://facebook.com/fabricademy), [Instagram](http://instagram.com/fabricademy), [Pinterest](http://pinterest.com/fabricademy)
