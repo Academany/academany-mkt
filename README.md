@@ -18,7 +18,7 @@ More to follow soon.
   - Raster [png (low)](./fabacademy2017/logo/academany_small.png), [png (hi)](./fabacademy2017/logo/academany.png)
   - Vector [pdf](./fabacademy2017/logo/academany.pdf)
 
-## Fab Academy 2017
+## Fab Academy 2018 (new!)
 
 ![png](./fabacademy2017/logo/fabacademy_small.png)
 
@@ -35,9 +35,9 @@ More to follow soon.
   - text [english](./fabacademy2017/brochure/index.md) | [french](./fabacademy2017/brochure/fr.md)
   - (to be translated in) [spanish](./fabacademy2017/brochure/es.md) | [italian](./fabacademy2017/brochure/it.md) | [german](./fabacademy2017/brochure/de.md) | [chinese](./fabacademy2017/brochure/cn.md)
 
-- **Flyer**
-  - Raster [png, high res](./fabacademy2017/flyer/flyer.png)
-  - Vector [pdf](./fabacademy2017/flyer/flyer.pdf)
+- **Flyer** (New!)
+  - Raster [png, high res](./fabacademy2018/flyer/fabAcademyGlobal2018_kit-01.jpg)
+  - Vector [ai](./fabacademy2018/flyer/fabAcademyGlobal2018_kit.ai),[make your own! pdf](./fabacademy2018/flyer/Flyer_FabAc_2018.pdf)
 
 - **Press release**
   - [English](./fabacademy2017/press/press_en.md)
