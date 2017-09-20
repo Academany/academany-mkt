@@ -37,7 +37,7 @@ More to follow soon.
 
 - **Flyer** (New!)
   - Raster [png, high res](./fabacademy2018/flyer/fabAcademyGlobal2018_kit-01.jpg)
-  - Vector [ai](./fabacademy2018/flyer/fabAcademyGlobal2018_kit.ai),[make your own! pdf](./fabacademy2018/flyer/Flyer_FabAc_2018.pdf)
+  - Vector [ai](./fabacademy2018/flyer/fabAcademyGlobal2018_kit.ai), or **make your own** [pdf template](./fabacademy2018/flyer/Flyer_FabAc_2018.pdf)
 
 - **Press release**
   - [English](./fabacademy2017/press/press_en.md)
